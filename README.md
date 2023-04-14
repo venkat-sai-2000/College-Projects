@@ -1,4 +1,4 @@
-Block-vote Application
+Online Voting Using Blockchain Application
 ============================================================================================
 This project was made by the students at NMREC and under the guidance of Dr. KALYAN KASTURI
 ============================================================================================
